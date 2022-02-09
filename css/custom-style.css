@@ -11,3 +11,13 @@
     padding: 9px 25px;
     border: none;
 }
+.btn-section{
+    text-align: center;
+
+}
+.btn-js{
+    border: none;
+    background-image: linear-gradient(tomato, rgb(154, 173, 70));
+    border-radius: 15px;
+    padding: 5px 10px;
+}
